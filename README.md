@@ -1,2 +1,2 @@
 # easy-stablediffusion
-Easy and private Stable Diffusion running in Google Colab.
+Easy and private Stable Diffusion that can be run in Google Colab.
